@@ -1,0 +1,21 @@
+.p-1 {
+  border: 3px solid blue;
+  border-radius: 8px 50px 70px 100px;
+}
+
+.p-2 {
+  border-top: 3px dashed blue;
+  /* border-top-left-radius: 50px; */
+  /* border-top-right-radius: 50px; */
+  /* border-bottom-left-radius: 50px; */
+}
+
+.p-3 {
+  border-right: 3px dotted blue;
+}
+
+/* Estilos para el borde */
+/* inherit */
+/* none */
+/* double  */
+/* ridge */
