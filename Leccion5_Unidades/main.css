@@ -1,0 +1,14 @@
+section {
+  font-size: 20px;
+}
+
+p {
+  font-size: 2em;
+  /*32px*/
+  border: 1em red solid;
+}
+
+span {
+  font-size: 2rem;
+  /*64px*/
+}
