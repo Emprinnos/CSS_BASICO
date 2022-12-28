@@ -1,0 +1,29 @@
+/* Selector Universal */
+
+/* * {
+  color: blue;
+} */
+
+/* Selector de Elemento */
+
+/* h1 {
+  color: red;
+} */
+
+/*Selector de  clase*/
+
+.primer-titulo {
+  color: red;
+}
+
+/*Selector de ID*/
+
+#segundo-titulo {
+  color: blue;
+}
+
+/*Selector descendiente*/
+
+p span {
+  color: red;
+}
