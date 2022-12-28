@@ -1,0 +1,17 @@
+/* COLOR POR NOMBRE */
+
+p {
+  color: royalblue;
+}
+
+/* COLOR RGB  */
+
+h1 {
+  color: rgb(90, 41, 223);
+}
+
+/* valor hexadecimal */
+
+p {
+  color: #3f3f3f;
+}
