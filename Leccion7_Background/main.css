@@ -1,0 +1,27 @@
+h1 {
+  color: #f3f3f3;
+  background-color: #3f3f3f;
+}
+
+.caja-1 {
+  background-color: rgba(103, 142, 191, 0.9);
+  background-color: hsla(262, 36%, 50%, 0.6);
+}
+
+.caja-2 {
+  width: 1800px;
+  height: 3000px;
+  background-image: url(./img/fondo.jpg);
+  color: #f3f3f3;
+  /* background-repeat: no-repeat; */
+  /* background-position: 50px 25px; */
+  /* background-position: 20% 10%; */
+  /* background-position: left top; */
+  /* background-position: left center; */
+  /* background-position: right top; */
+  /* background-position: center center; */
+  /* background-attachment: fixed;
+  background-size: cover; */
+  background: url('./img/fondo.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
